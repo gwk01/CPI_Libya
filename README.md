@@ -1,2 +1,2 @@
 # CPI
-streamlit link: https://share.streamlit.io/gwk01/cpi/main/CPI_dashboard.py
+streamlit link: https://gwk01-cpi-libya-cpi-libya-nmeg4i.streamlitapp.com/
